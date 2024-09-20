@@ -1,0 +1,74 @@
+{
+  "boards": [
+    {
+      "name": "New Board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-09-18",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "order": 0,
+      "boardId": 1,
+      "listId": 1,
+      "name": "Bread",
+      "created": "2024-09-18",
+      "deadline": "2024-09-21",
+      "description": "",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "order": 1,
+      "boardId": 1,
+      "listId": 1,
+      "name": "Juice",
+      "created": "2024-09-18",
+      "deadline": "2024-09-21",
+      "description": "",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "order": 0,
+      "boardId": 1,
+      "listId": 2,
+      "name": "Toast",
+      "created": "2024-09-18",
+      "deadline": "2024-09-21",
+      "description": "",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "order": 1,
+      "boardId": 1,
+      "listId": 2,
+      "name": "Fruit",
+      "created": "2024-09-18",
+      "deadline": "2024-09-21",
+      "description": "",
+      "completed": false,
+      "id": 4
+    }
+  ],
+  "lists": [
+    {
+      "boardId": 1,
+      "name": "New List",
+      "order": 0,
+      "created": "2024-09-18",
+      "id": 1
+    },
+    {
+      "boardId": 1,
+      "name": "Toast",
+      "order": 1,
+      "created": "2024-09-18",
+      "id": 2
+    }
+  ],
+  "users": []
+}
